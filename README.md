@@ -35,7 +35,7 @@ Users should be able to:
 
 ## My process
 
-For this project I was approched the mobile first view, Uses the basic CSS to style the component.
+For this project, I approached the mobile-first view, Using the essential CSS to style the component.
 ### Built with
 
 - Semantic HTML5 markup
@@ -45,12 +45,10 @@ For this project I was approched the mobile first view, Uses the basic CSS to st
 
 ### What I learned
 
-While working on this project, I learned the positioning of the elements, get some insight in flexbox, color combination and much more.
+While working on this project, I learned the positioning of the elements and got some insight into flexbox, color combination, and much more.
 
 
 ## Author
 
 - Frontend Mentor - [@Abhishek-Sahu532](https://www.frontendmentor.io/profile/Abhishek-Sahu532)
 
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
